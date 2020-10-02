@@ -67,6 +67,9 @@ p {
         margin-top: 0;
         margin-bottom: 0;
     }
+	.tagline + .tagline {
+		margin-top: 10px;
+	}
     .profile {
         margin-bottom: 15px;
     }
