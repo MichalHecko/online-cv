@@ -27,6 +27,12 @@ sidebar:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
+    competencies:
+      - competence: XXX
+        description: YYY
+      - competence: ZZZ
+        description: HHH
+
     languages:
       - idiom: Slovak
         level: Native

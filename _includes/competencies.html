@@ -1,0 +1,21 @@
+{% assign competencies = site.data.data.sidebar.competencies %}
+{% if competencies %}
+<div class="competencies-container container-block">
+
+  <h2 class="container-block-title">
+    Competencies
+  </h2>
+
+  <ul class="list-unstyled competencies-list">
+    {% for competence in competencies %}
+
+      <li>
+      {{ competence.competence }}
+      <span class="competence-desc">{{ competence.description }}</span>
+    </li>
+
+    {% endfor %}
+  </ul>
+
+</div><!--//competencies-->
+{% endif %}
