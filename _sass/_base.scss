@@ -134,6 +134,15 @@ p {
             color: rgba(256, 256, 256, 0.6);
         }
     }
+	
+	.competencies-list {
+		.competence-desc {
+			display: block;
+			color: #ccc;
+			margin-bottom: 10px;
+		}
+	}
+	
 
     .languages-list {
         margin-bottom: 0;

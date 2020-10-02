@@ -28,10 +28,16 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     competencies:
-      - competence: XXX
-        description: YYY
-      - competence: ZZZ
-        description: HHH
+      - competence: Ambitious
+        description: Show my work is the best it can be, and i am not afraid to take risks
+      - competence: Integrity
+        description: Submit only finished work that meets my own high standards
+      - competence: Quick learner
+        description: Quickly adopt to new technologies and frameworks
+      - competence: Responsibility
+        description: Can be counted on to complete tasks that are assigned to me
+      - competence: Problem-solving
+        description: Be able to evaluate situations and find effective solutions
 
     languages:
       - idiom: Slovak
@@ -39,16 +45,6 @@ sidebar:
 
       - idiom: English
         level: B1
-
-    interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
-        link:
 
 career-profile:
     title: Career Profile
